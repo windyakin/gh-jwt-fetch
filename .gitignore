@@ -1,0 +1,7 @@
+gh-jwt-fetch
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
